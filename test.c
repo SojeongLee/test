@@ -1,3 +1,8 @@
-dkdkdkr
-qorhvmekrh...
-dho duddjfhclfo Wkwmdskrpzzzzkdkdkdr
+#inlucde <stdio.h>
+
+int main()
+{
+  printf("hellow world");
+  
+  return 0;
+}
