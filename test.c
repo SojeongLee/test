@@ -2,7 +2,8 @@
 
 int main()
 {
-  printf("hellow world");
+  printf("hellow world\n");
+  printf("dkdkdkr\n");
   
   return 0;
 }
