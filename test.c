@@ -1,8 +1,12 @@
-dkdkdkr
-qorhvmekrh...
-dho duddjfhclfo Wkwmdskrpzzzzkdkdkdr
+#inlucde <stdio.h>
 
-dkfjd;klfj
-kdjlfkd
-kdjkfjd
+int main()
+{
+  printf("hellow world\n");
+  printf("dkdkdkr\n");
+  printf("+++\n");
+  
+  return 0;
+}
+
 
